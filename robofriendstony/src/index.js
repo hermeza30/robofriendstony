@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 // import Hellow2 from './Hello2';
 import 'tachyons';
 
-import App from './App'
+import App from './containers/App'
 
 ReactDOM.render(
   <React.StrictMode>
